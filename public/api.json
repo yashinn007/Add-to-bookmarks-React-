@@ -1,0 +1,82 @@
+[
+  {
+    "id": "P-1001",
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "rating": 4.5,
+    "brand": "SoundMax",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/fa1a50ee51c9e23df9be268274f00463.jpg_200x200q80.avif"
+  },
+  {
+    "id": "P-1002",
+    "name": "Smart Fitness Watch",
+    "price": 129.99,
+    "rating": 4.2,
+    "brand": "FitPulse",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/78b6d9b1bf59ef4fdf64edc710ebb799.png_200x200q80.avif"
+  },
+  {
+    "id": "P-1003",
+    "name": "Stainless Steel Water Bottle",
+    "price": 24.5,
+    "rating": 4.8,
+    "brand": "HydroPeak",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/74f2a290ac65d8ee6b7d8e57e7c72464.jpg_200x200q80.avif"
+  },
+  {
+    "id": "P-1004",
+    "name": "Ergonomic Office Chair",
+    "price": 249.0,
+    "rating": 4.6,
+    "brand": "ComfortSeat",
+    "image": "https://img.drz.lazcdn.com/g/kf/Sde5741df39cf4642922406937cce3082h.jpg_200x200q80.avif"
+  },
+  {
+    "id": "P-1005",
+    "name": "Organic Green Tea",
+    "price": 12.99,
+    "rating": 4.3,
+    "brand": "NatureLeaf",
+    "image": "https://img.drz.lazcdn.com/g/kf/Se819d46c52724a0c9e669e131f39f24cU.jpg_200x200q80.avif"
+  },
+  {
+    "id": "P-1006",
+    "name": "Portable Power Bank 20000mAh",
+    "price": 39.99,
+    "rating": 4.4,
+    "brand": "ChargePro",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/5748f2002544d6132f11f86a69f99b51.jpg_200x200q80.avif"
+  },
+  {
+    "id": "P-1007",
+    "name": "Mechanical Gaming Keyboard",
+    "price": 89.0,
+    "rating": 4.7,
+    "brand": "KeyForge",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/a5e10b6f80c069b638df7e583aa63592.jpg_200x200q80.avif"
+  },
+  {
+    "id": "P-1008",
+    "name": "LED Desk Lamp",
+    "price": 29.99,
+    "rating": 4.1,
+    "brand": "BrightLite",
+    "image": "https://img.drz.lazcdn.com/g/kf/S1b6257ae233c4f8fbdcfbe6b3a7ef156v.jpg_200x200q80.avif"
+  },
+  {
+    "id": "P-1009",
+    "name": "Noise Cancelling Earbuds",
+    "price": 99.99,
+    "rating": 4.6,
+    "brand": "EchoWave",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/1470e5037c81d0ad147ba3a576a1fb40.jpg_200x200q80.avif"
+  },
+  {
+    "id": "P-1010",
+    "name": "Minimalist Leather Wallet",
+    "price": 34.95,
+    "rating": 4.4,
+    "brand": "UrbanHide",
+    "image": "https://img.drz.lazcdn.com/g/kf/Sfc74d304255542a79d0a11de821ea259B.jpg_200x200q80.avif"
+  }
+]

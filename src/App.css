@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  width: 100vw;
+}
+.btn {
+  border: none;
+  height: 35px;
+  width: 35px;
+  background-color: transparent;
+}
+.btn-icon {
+  height: 25px;
+  width: 25px;
+  color: black;
+}
+.btn-icon-2 {
+  color: purple;
+}
+
+.sProduct {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.bookMarkContainer {
+  margin-top: 20px;
+  width: 25vw;
+}
+.bookMarkBottom {
+  width: 18vw;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bookmark-btn {
+  padding: 10px 15px;
+  background-color: rgb(80, 17, 139);
+  color: white;
+  border-radius: 7px;
+  border: none;
+  cursor: pointer;
+}
+.footerContainer {
+  display: flex;
+  justify-content: space-between;
+  height: 50vh;
+  align-items: baseline;
+  width: 100vw;
+  background-color: rgb(169, 138, 197);
+  margin-top: 40px;
+}
+.div1 p {
+  font-size: 14px;
+  margin-top: 6px;
+}
+.div1 span {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.div1 {
+  /* margin-top: 40px; */
+  margin-inline: auto;
+  margin-block: 40px;
+}
+.last {
+  background-color: rgb(169, 138, 197);
+  text-align: center;
+  padding-block: 20px;
+}
